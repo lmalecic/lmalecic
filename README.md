@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lmalecic
-- 👀 I’m interested in software engineering and game development.
+- 👀 I’m interested in software engineering and game development
 - 🌱 I’m currently studying at Algebra University College
 - 💞️ Everything I do, I do with love
 
