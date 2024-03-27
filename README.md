@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lmalecic
 - 👀 I’m interested in software engineering and game development
-- 🌱 I’m currently studying at Algebra University College
+- 🌱 I’m currently studying at Algebra University College in Zagreb
 - 💞️ Everything I do, I do with love
 
 <!---
